@@ -1,0 +1,8 @@
+[ 2026-02-13 10:42:06,398 ] 49 root - INFO - Data trasformation has been initiated
+[ 2026-02-13 10:42:06,398 ] 18 root - INFO - Initiate Data Ingestion
+[ 2026-02-13 10:42:06,407 ] 24 root - INFO - Insurance data file is stored in artifact folder
+[ 2026-02-13 10:42:06,414 ] 28 root - INFO - Both train and test set has been stored in the artifact folder
+[ 2026-02-13 10:42:06,457 ] 57 root - INFO - Both Train and test files have been read
+[ 2026-02-13 10:42:06,461 ] 30 root - INFO - data pipeline has been initiated
+[ 2026-02-13 10:42:06,461 ] 40 root - INFO - preprocessor pipeline is Created
+[ 2026-02-13 10:42:06,478 ] 74 root - INFO - train and test array created

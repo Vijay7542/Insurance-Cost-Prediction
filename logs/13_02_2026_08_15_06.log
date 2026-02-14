@@ -1,0 +1,3 @@
+[ 2026-02-13 08:15:07,873 ] 18 root - INFO - Initiate Data Ingestion
+[ 2026-02-13 08:15:07,885 ] 24 root - INFO - Insurance data file is stored in artifact folder
+[ 2026-02-13 08:15:07,897 ] 28 root - INFO - Both train and test set has been stored in the artifact folder

@@ -1,0 +1,3 @@
+[ 2026-02-15 03:53:17,515 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-02-15 03:53:17,517 ] 97 werkzeug - INFO -  * Debugger PIN: 626-792-257
+[ 2026-02-15 03:54:01,463 ] 97 werkzeug - INFO -  * Detected change in 'D:\\Modular_programming\\app.py', reloading

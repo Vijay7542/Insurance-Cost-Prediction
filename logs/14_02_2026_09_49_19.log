@@ -1,0 +1,12 @@
+[ 2026-02-14 09:49:22,261 ] 25 root - INFO - Model training has been initiated
+[ 2026-02-14 09:49:22,262 ] 49 root - INFO - Data trasformation has been initiated
+[ 2026-02-14 09:49:22,262 ] 20 root - INFO - Initiate Data Ingestion
+[ 2026-02-14 09:49:22,278 ] 29 root - INFO - Insurance data file is stored in artifact folder
+[ 2026-02-14 09:49:22,290 ] 36 root - INFO - Both train and test set has been stored in the artifact folder
+[ 2026-02-14 09:49:22,368 ] 57 root - INFO - Both Train and test files have been read
+[ 2026-02-14 09:49:22,371 ] 30 root - INFO - data pipeline has been initiated
+[ 2026-02-14 09:49:22,371 ] 40 root - INFO - preprocessor pipeline is Created
+[ 2026-02-14 09:49:22,399 ] 74 root - INFO - train and test array created
+[ 2026-02-14 09:49:22,402 ] 77 root - INFO - preprocessor pickle has been saved
+[ 2026-02-14 09:49:22,402 ] 36 root - INFO - input and Outputs features are get seperated
+[ 2026-02-14 09:49:22,596 ] 48 root - INFO - file has been saved

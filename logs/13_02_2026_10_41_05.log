@@ -1,0 +1,5 @@
+[ 2026-02-13 10:41:06,562 ] 49 root - INFO - Data trasformation has been initiated
+[ 2026-02-13 10:41:06,562 ] 18 root - INFO - Initiate Data Ingestion
+[ 2026-02-13 10:41:06,570 ] 24 root - INFO - Insurance data file is stored in artifact folder
+[ 2026-02-13 10:41:06,578 ] 28 root - INFO - Both train and test set has been stored in the artifact folder
+[ 2026-02-13 10:41:06,617 ] 57 root - INFO - Both Train and test files have been read

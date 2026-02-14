@@ -1,0 +1,11 @@
+[ 2026-02-15 04:39:55,349 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-02-15 04:39:55,351 ] 97 werkzeug - INFO -  * Debugger PIN: 626-792-257
+[ 2026-02-15 04:40:38,951 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Feb/2026 04:40:38] "GET / HTTP/1.1" 200 -
+[ 2026-02-15 04:41:32,549 ] 53 root - INFO - Data Frame is created
+[ 2026-02-15 04:41:32,863 ] 25 root - INFO - pickle files have been loaded
+[ 2026-02-15 04:41:32,878 ] 29 root - INFO - data scaling has been completed
+[ 2026-02-15 04:41:32,881 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Feb/2026 04:41:32] "POST /predict HTTP/1.1" 200 -
+[ 2026-02-15 04:43:22,927 ] 53 root - INFO - Data Frame is created
+[ 2026-02-15 04:43:23,055 ] 25 root - INFO - pickle files have been loaded
+[ 2026-02-15 04:43:23,165 ] 29 root - INFO - data scaling has been completed
+[ 2026-02-15 04:43:23,181 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Feb/2026 04:43:23] "POST /predict HTTP/1.1" 200 -

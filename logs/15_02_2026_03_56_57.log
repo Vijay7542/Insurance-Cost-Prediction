@@ -1,0 +1,8 @@
+[ 2026-02-15 03:56:57,612 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-02-15 03:56:57,614 ] 97 werkzeug - INFO -  * Debugger PIN: 626-792-257
+[ 2026-02-15 03:57:18,491 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Feb/2026 03:57:18] "GET / HTTP/1.1" 200 -
+[ 2026-02-15 03:57:31,252 ] 53 root - INFO - Data Frame is created
+[ 2026-02-15 03:57:31,671 ] 25 root - INFO - pickle files have been loaded
+[ 2026-02-15 03:57:31,687 ] 29 root - INFO - data scaling has been completed
+[ 2026-02-15 03:57:31,692 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Feb/2026 03:57:31] "POST /predict HTTP/1.1" 200 -
+[ 2026-02-15 04:01:32,603 ] 97 werkzeug - INFO -  * Detected change in 'D:\\Modular_programming\\app.py', reloading
