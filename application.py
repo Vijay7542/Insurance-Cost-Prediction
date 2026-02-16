@@ -6,10 +6,6 @@ st.title("Insurance Cost Prediction")
 
 st.write("Enter your details below to estimate your medical insurance charges.")
 
-# -----------------------
-# Input Fields
-# -----------------------
-
 name = st.text_input("Name")
 
 age = st.number_input("Age", min_value=20, max_value=120)
@@ -27,9 +23,6 @@ region = st.selectbox(
     ["southwest", "northwest", "southeast", "northeast"]
 )
 
-# -----------------------
-# Prediction Button
-# -----------------------
 
 if st.button("Predict Charges"):
 
@@ -49,4 +42,4 @@ if st.button("Predict Charges"):
     result = round(prediction[0], 2)
 
     st.success(f"Hello {name} !")
-    st.success(f"Estimated Insurance Charges: ${result:,.2f}")
+    st.success(f"Estimated Insurance Charges: {result:,.2f}")
