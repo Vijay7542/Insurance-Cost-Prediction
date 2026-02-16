@@ -11,6 +11,7 @@ def home():
 
 @app.route("/predict",methods=["POST"])
 def predict():
+        name = request.form["name"]
         age = int(request.form["age"])
         sex = request.form["sex"]
         bmi = float(request.form["bmi"])
@@ -26,7 +27,7 @@ def predict():
 
         result=round(prediction[0],2)
 
-        return render_template("index.html",prediction_text=f"Predicted Insurance Charges: {result}")
+        return render_template("index.html",prediction_text=f"{result}",name=name)
 
 if __name__=="__main__":
       app.run(debug=True)

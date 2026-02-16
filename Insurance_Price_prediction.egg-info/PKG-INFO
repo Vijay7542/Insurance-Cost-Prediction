@@ -3,7 +3,7 @@ Name: Insurance_Price_prediction
 Version: 0.1.0
 Summary: Insurance Price Prediction Using Regression Models
 Author: Vijay Kumar Bandaru
-Author-email: bvijay1711@gmail.com
+Author-email: Vijay Kumar
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: seaborn
@@ -12,6 +12,7 @@ Requires-Dist: scikit-learn
 Requires-Dist: xgboost
 Requires-Dist: ipykernel
 Requires-Dist: flask
+Requires-Dist: streamlit
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist

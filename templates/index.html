@@ -21,6 +21,11 @@
 
     <form action="/predict" method="POST">
 
+        
+        <label>Name:</label><br>
+        <input type="text" name="name" required>
+        <div class="note">Enter your full name.</div>
+
         <label>Age:</label><br>
         <input type="number" name="age" required>
         <div class="note">Age of the person in years.</div>
@@ -66,7 +71,16 @@
 
     </form>
 
-    <h3 style="color:green;">{{ prediction_text }}</h3>
+    
+    {% if prediction_text %}
+        <h3 style="color:blue;">
+            Hello {{ name }} !
+        </h3>
+
+        <h3 style="color:green;">
+            Estimated Insurance Charges: {{ prediction_text }}
+        </h3>
+    {% endif %}
 
 </body>
 </html>

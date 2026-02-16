@@ -2,3 +2,6 @@ venu/
 .venu/
 env/
 .ENV/
+logs/
+setup
+applcation.py

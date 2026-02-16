@@ -16,7 +16,7 @@ setup(
     version="0.1.0",
     description="Insurance Price Prediction Using Regression Models",
     author="Vijay Kumar Bandaru",
-    author_email="bvijay1711@gmail.com",
+    author_email="Vijay Kumar",
     packages=find_packages(),
     install_requires=get_libraries("requirements.txt")
 
