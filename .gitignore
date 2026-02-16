@@ -3,3 +3,6 @@ venu/
 env/
 .ENV/
 logs/
+images/
+logs/
+Insurance_Price_prediction.egg-info
